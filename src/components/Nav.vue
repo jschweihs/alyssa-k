@@ -1,7 +1,7 @@
 <template>
 		<div>
 			<router-link tag="img" to="/" class="logo" src="/images/logo.png"/>
-			<h2 class="purple-light">lyssaKordpitoulas.com</h2>
+			<h2 class="purple-light">lyssaKordopitoulas.com</h2>
 			<ul>
 				<li>
 					<router-link class="accent" tag="a" to="/">
@@ -45,7 +45,7 @@
 	ul {
 		list-style-type: none;
 		margin: 0;
-		margin-top: 74px;
+		margin-top: 71px;
 		padding: 0;
 		padding-right: 40px;
 		float: right;
