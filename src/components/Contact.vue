@@ -45,7 +45,7 @@
 			</form>
 		</div>
 		<div class="note">
-			<p>We value your input.  Please inform of is you have any suggestions for our service.  It may take up to 24 hours to respond.</p>
+			<p>I value your input and thank you so much for taking the time to reach out.  Please inform if you have any suggestions for our service.  It may take up to 24 hours to respond.</p>
 		</div>
 	</div>
 </template>
