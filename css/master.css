@@ -1,0 +1,187 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "Arial";
+}
+
+html h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+html h3 {
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 14px;
+}
+
+p {
+	font-size: 18px;
+}
+
+a {
+	color: #503af4;	
+}
+
+a:hover {
+	color: #8271ff;
+	text-decoration: none;
+}
+
+hr {
+	margin: 20px;
+}
+
+input, select {
+	margin-bottom: 20px;
+}
+
+label {
+	font-size: 18px;
+}
+
+textarea {
+	resize: none;
+	min-height: 300px;
+}
+
+.content {
+	margin-left: 260px;
+	padding: 20px;
+	padding-bottom: 60px;
+	min-height: 100%;
+}
+
+.note {
+	background-color: white;
+	max-width: 960px;
+	margin: 10px auto;
+	padding: 20px;
+	border-radius: 25px;
+	border: 1px solid #FFF2E3;
+	/*box-shadow: 0 0 6px #ddd;*/
+}
+
+/* HELPER CLASSES */
+
+.block-text {
+	padding: 0 80px;
+	font-size: 16px;
+}
+
+.bold-text {
+	text-align: center;
+	font-size: 24px;
+}
+
+.list-text-item::before  {
+	content: "\2022";
+	color: #F097F0;
+	margin-right: 4px;
+}
+
+.list-text-item {
+	font-size: 18px;
+}
+
+.submit-btn {
+	margin-top: 20px;
+	width: 306px;
+	height: 60px;
+	display: block;
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.large-text {
+	font-size: 20px;
+}
+
+/* Colors */
+.white {
+	color: white !important;
+}
+.white-bg {
+	background-color: white !important;
+}
+.white-off {
+	color: #FDFDFD;
+}
+.white-off-bg {
+	background-color: #FDFDFD;
+}
+.purple {
+	color: #AB00AB !important;
+}
+.purple-light {
+	color: #CB57CB !important;
+}
+.purple-verylight {
+	color: #F097F0 !important;
+}
+.purple-dark {
+	color: #570057 !important;
+}
+.purple-bg {
+	background-color: #AB00AB !important;
+}
+.purple-light-bg {
+	background-color: #CB57CB !important;
+}
+.purple-verylight-bg {
+	background-color: #F097F0 !important;
+}
+.purple-dark-bg {
+	background-color: #592659 !important;
+}
+.accent {
+	color: #503af4 !important;
+}
+.accent-light {
+	color: #8271ff !important;
+}
+.accent-dark {
+	color: #0A5099 !important;
+}
+.accent-bg {
+	background-color: #503af4 !important;
+}
+.accent-light-bg {
+	background-color: #8271ff !important;
+}
+.accent-dark-bg {
+	background-color: #0A5099 !important;
+} 
+.orange {
+	color: #FF8B00 !important;
+}
+.orange-light {
+	color: #FFBC6D !important;
+}
+.orange-dark {
+	color: #864900 !important;
+}
+.orange-bg {
+	background-color: #FF8B00 !important;
+}
+.orange-light-bg {
+	background-color: #FFBC6D !important;
+}
+.orange-dark-bg {
+	background-color: #864900 !important;
+}
+
+/* ANIMATION */
+
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.25s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
