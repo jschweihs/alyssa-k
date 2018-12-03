@@ -3,7 +3,7 @@
 		<div class="note">
 			<h1 class="purple-light">About</h1>
 			<img src="/images/FullSizeRender.jpg"/>
-			<p>My name is Alyssa Kordopitoulas and I am currently in school at Benedictine University in the Special Education Program.  I plan to do well in school and start my career in schools where I can help the students that need it most. My dream goal is to one day have a school of my own that can properly assist students with disabilities and give them an environment in which they can thrive.</p>
+			<p>My name is Alyssa Kordopitoulas and I am currently in school at Benedictine University in the Special Education Program. I already have previous experience working with special needs children both in established schools as well as private practice.  I have 3 semesters left before I begin my student teaching. I plan to do well in school and start my career in schools where I can help the students that need it most. My dream goal is to one day have a school of my own that can properly assist students with disabilities and give them an environment in which they can thrive.</p>
 			<h3 class="purple-light">Here are some details about me that you may not have known</h3>
 			<ul class="list-text">
 				<li class="list-text-item purple-light">I am 5' 2" and I am left handed.</li>
