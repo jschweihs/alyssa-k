@@ -116,6 +116,7 @@
 	div {
 		position: absolute;
 		height: calc(100% - 120px);
+		min-height: 574px;
 		width: 260px;
 		padding-top: 40px;
 		padding-right: 16px;
