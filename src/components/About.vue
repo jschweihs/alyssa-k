@@ -14,7 +14,7 @@
 				<li class="list-text-item purple-light">I collect keychains. Every new place I travel, I bring back keychain souvenir.</li>
 			</ul>
 			<br/>
-			<img src="/images/bella.jpg"/>
+			<img src="/images/bella_dog.jpg"/>
 		</div>
 	</div>
 </template>
