@@ -30,10 +30,10 @@
 						<h5 class="purple">Research Based Strategies and Interventions</h5>
 						<ul>
 							<li>Applied Behavior Analysis</li>
-							<li>Cognitive Behavioral strategies</li>
-							<li>SEL (social & emotional learning)</li>
-							<li>RDI (relationship development intervention)</li>
-							<li>SSI (social skills intervention)</li>
+							<li>Cognitive Behavioral Strategies</li>
+							<li>Social & Emotional Learning</li>
+							<li>Relationship Development Intervention</li>
+							<li>Social Skills Intervention</li>
 						</ul>
 					</div>
 					<div class="col-6">

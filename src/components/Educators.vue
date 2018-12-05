@@ -15,7 +15,7 @@
 			<p class="ref"><a href="https://www.isbe.net/pages/learning-standards.aspx">Illinois Learning Standards</a></p>
 			<p>Within their website, ISBE also provides essential information pertaining to the Illinois learning standards. This website can be a vital tool when planning curriculum for your classroom. This resource describes key concepts and content that all students are expected to know upon completing their education.</p>
 
-			<p class="ref"><a href="https://www.iidc.indiana.edu/styles/iidc/defiles/IRCA/CommunicationCurriculum2018.pdf">Indiana Resource Center for Autism</a></p>
+			<p class="ref"><a href="https://www.iidc.indiana.edu/styles/iidc/defiles/IRCA/CommunicationCurriculum2018.pdf">Resource Center for Autism</a></p>
 			<p>This link includes a detailed curriculum targeted towards students with ASD. This guide can serve as a helpful resource when creating social communication curriculum. It has lots of wonderful activities and ideas!</p>
 
 			<p class="ref"><a href="https://www.ocali.org/up_doc/Standards-Based-Life-Skills-Curriculum.pdf">Standards-Based Life Skills Cirriculum</a></p>
