@@ -7,7 +7,7 @@
 			<p class="text-center">Our classroom is comprised of students in grades 9-12 with autism spectrum disorder.  Please feel free to enjoy and explore all of the different aspects of our website including curriculum guides, strategies, upcoming events, resources, and more!</p>
 			<br/>
 			<br/>
-			<img src="/images/classroom.png"/>
+			<img style="border: 1px solid #FFF2E3;" src="/images/classroom.png"/>
 
 			<p class="block-text">Classroom design map</p>
 			<br/>
