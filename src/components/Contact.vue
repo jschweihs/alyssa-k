@@ -1,5 +1,5 @@
 <template>
-	<div class="content white-off-bg">
+	<div class="content white-bg">
 		<div class="note">	
 			<h1 class="purple-light">Contact</h1>
 			<form>
@@ -45,7 +45,14 @@
 			</form>
 		</div>
 		<div class="note">
-			<p>I value your input and thank you so much for taking the time to reach out.  Please inform if you have any suggestions for our service.  It may take up to 24 hours to respond.</p>
+			<p>You can also reach me the following ways:</p>
+			<ul>
+				<li>Alyssa_kordopitoulas@ben.edu</li>
+				<li>Alyssakordopitoulas@gmail.com</li>
+				<li>School extension phone #</li>
+				<li>By scheduling an appointment with me either in person or via Skype</li>
+			</ul>
+
 		</div>
 	</div>
 </template>
@@ -62,3 +69,14 @@
 		}
 	}
 </script>
+
+<style>
+
+	li {
+		font-size: 18px;
+	}
+
+	input, select, textarea {
+		margin-bottom: 20px;
+	}
+</style>

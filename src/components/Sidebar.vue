@@ -2,23 +2,41 @@
 	<div class="purple-dark-bg">
 		<ul>
 			<li class="sidebar-title white">
-				<i class="fas fa-medkit"></i>
+				<i class="fas fa-university"></i>
 				 Classroom
 			</li>
 			<li class="sidebar-item">
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/statement"
 				>
-					Schedule and Cirriculum
+					Educational Statement
+				</router-link>
+			<li class="sidebar-item">
+				<router-link 
+					class="purple-verylight"
+					tag="a" 
+					to="/curriculum"
+				>
+					 Curriculum Guide
+				</router-link>
+			</li>
+			</li>
+			<li class="sidebar-item">
+				<router-link 
+					class="purple-verylight"
+					tag="a" 
+					to="/schedule"
+				>
+					Schedule
 				</router-link>
 			</li>
 			<li class="sidebar-item">
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/practices"
 				>
 					Evidence Based Practices
 				</router-link>
@@ -27,25 +45,16 @@
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/tools"
 				>
-					Adaptive Tools and Strategies
+					Adaptive Tools & Strategies
 				</router-link>
 			</li>
 			<li class="sidebar-item">
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
-				>
-					Student Spotlight
-				</router-link>
-			</li>
-			<li class="sidebar-item">
-				<router-link 
-					class="purple-verylight"
-					tag="a" 
-					to="/"
+					to="/assignments"
 				>
 					Assignments
 				</router-link>
@@ -58,7 +67,7 @@
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/events"
 				>
 					Upcoming Events
 				</router-link>
@@ -67,16 +76,7 @@
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
-				>
-					Standards and Goals
-				</router-link>
-			</li>
-			<li class="sidebar-item">
-				<router-link 
-					class="purple-verylight"
-					tag="a" 
-					to="/"
+					to="/forms"
 				>
 					Forms
 				</router-link>
@@ -85,25 +85,25 @@
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/links"
 				>
-					Educational Links and Apps
+					Educational Links for Students
 				</router-link>
 			</li>
 			<li class="sidebar-item">
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/educators"
 				>
-					Tips and Resources for Educators
+					Resources for Educators
 				</router-link>
 			</li>
 			<li class="sidebar-item">
 				<router-link 
 					class="purple-verylight"
 					tag="a" 
-					to="/"
+					to="/parents"
 				>
 					Parent Resources
 				</router-link>

@@ -1,21 +1,47 @@
 <template>
-	<div class="content white-off-bg">
+	<div class="content white-bg">
 		<div class="note">
-			<h1 class="purple">Home</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean justo justo, iaculis vitae tristique ut, scelerisque id nisi. Nullam bibendum auctor ligula, a viverra augue semper in. Integer felis risus, tempor a venenatis a, lobortis id leo. Vivamus efficitur iaculis est, in lobortis orci euismod non. Donec sed ullamcorper lectus. Curabitur scelerisque sagittis dui a malesuada. Proin congue, magna eget venenatis dictum, tellus sapien iaculis nisi, rhoncus <router-link tag="a" to="/">scelerisque dolor</router-link> sem ut ligula. Sed maximus eleifend lorem, sed tristique turpis ullamcorper vel. Suspendisse venenatis non tortor ac blandit. Duis nulla mauris, vehicula in ligula vitae, egestas porttitor sem. Ut id facilisis lorem.</p>
-			<p class="bold-text orange">Don't stop reading now.  There's more!</p>
-			<p>Aenean pulvinar pretium enim eget condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis a libero lobortis, bibendum massa vel, dapibus mauris. Nunc pharetra vel nibh non tempus. Phasellus sodales, ante at tincidunt bibendum, risus odio dignissim purus, non luctus libero metus in dui. Donec mattis est posuere lacinia fringilla. Fusce ante mi, scelerisque eget posuere vel, efficitur mattis tellus. Nam nec varius urna, eu fringilla massa. Praesent tempus libero dapibus commodo sollicitudin.</p>
-			<p class="block-text purple-light">"Nulla maximus vitae nibh ac vulputate. Nam in molestie felis. Aenean ut velit nec velit aliquam pellentesque. Ut iaculis leo at porttitor gravida. Fusce commodo finibus nulla, a venenatis leo fringilla in. Curabitur pulvinar urna dolor, vel tempus est euismod at. Aliquam ac finibus tortor." - Paul Rudd</p>
-			<p>Sed blandit magna at risus dictum, accumsan condimentum risus malesuada. Morbi blandit, est vitae condimentum dictum, diam massa varius augue, porttitor maximus diam diam sit amet lacus. Proin luctus hendrerit tortor, vitae dictum nunc laoreet non. Nulla eu nisi porta, congue augue sit amet, euismod nisi. Proin mattis, ipsum ultricies aliquet maximus, nisi lectus ullamcorper sem, a cursus enim neque a magna. Suspendisse tincidunt tristique augue, ut tristique leo sollicitudin sit amet. Curabitur scelerisque pretium enim vitae venenatis. Sed eu nulla malesuada ligula eleifend cursus. Etiam volutpat, massa ac sagittis efficitur, dui purus semper est, rutrum venenatis lectus nisi eget orci.</p>
-			<hr class="accent-light-bg">
-			<h3 class="purple">More to the story...</h3>
-			<p>Nullam viverra ligula id vulputate tempus. Sed at nisi ut sapien mollis porttitor sed eu nibh. Aliquam erat volutpat. Cras suscipit, erat vel tincidunt auctor, velit turpis molestie arcu, et blandit mi eros a tortor. Curabitur vitae ultrices dui. Cras massa ipsum, cursus ac egestas et, pretium a magna. In accumsan sem quis felis egestas molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas accumsan aliquam tortor, nec blandit risus consectetur sed. Cras viverra finibus diam, sed dapibus eros ullamcorper id. Nam vestibulum nulla ut aliquam ornare. Phasellus quis ipsum vel metus ultricies rutrum. Etiam vestibulum fringilla augue nec sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis erat nec enim pretium, et eleifend ante bibendum. Suspendisse gravida ut erat at consectetur.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean justo justo, iaculis vitae tristique ut, scelerisque id nisi. Nullam bibendum auctor ligula, a viverra augue semper in. Integer felis risus, tempor a venenatis a, lobortis id leo. Vivamus efficitur iaculis est, in lobortis orci euismod non. Donec sed ullamcorper lectus. Curabitur scelerisque sagittis dui a malesuada. Proin congue, magna eget venenatis dictum, tellus sapien iaculis nisi, rhoncus <router-link tag="a" to="/">scelerisque dolor</router-link> sem ut ligula. Sed maximus eleifend lorem, sed tristique turpis ullamcorper vel. Suspendisse venenatis non tortor ac blandit. Duis nulla mauris, vehicula in ligula vitae, egestas porttitor sem. Ut id facilisis lorem.</p>
-			<hr class="accent-light-bg">
-			<p>Aenean pulvinar pretium enim eget condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis a libero lobortis, bibendum massa vel, dapibus mauris. Nunc pharetra vel nibh non tempus. Phasellus sodales, ante at tincidunt bibendum, risus odio dignissim purus, non luctus libero metus in dui. Donec mattis est posuere lacinia fringilla. Fusce ante mi, scelerisque eget posuere vel, efficitur mattis tellus. Nam nec varius urna, eu fringilla massa. Praesent tempus libero dapibus commodo sollicitudin.</p>
-			<p class="block-text purple-light">"Nulla maximus vitae nibh ac vulputate. Nam in molestie felis. Aenean ut velit nec velit aliquam pellentesque. Ut iaculis leo at porttitor gravida. Fusce commodo finibus nulla, a venenatis leo fringilla in. Curabitur pulvinar urna dolor, vel tempus est euismod at. Aliquam ac finibus tortor." - Paul Rudd</p>
-			<p>Sed blandit magna at risus dictum, accumsan condimentum risus malesuada. Morbi blandit, est vitae condimentum dictum, diam massa varius augue, porttitor maximus diam diam sit amet lacus. Proin luctus hendrerit tortor, vitae dictum nunc laoreet non. Nulla eu nisi porta, congue augue sit amet, euismod nisi. Proin mattis, ipsum ultricies aliquet maximus, nisi lectus ullamcorper sem, a cursus enim neque a magna. Suspendisse tincidunt tristique augue, ut tristique leo sollicitudin sit amet. Curabitur scelerisque pretium enim vitae venenatis. Sed eu nulla malesuada ligula eleifend cursus. Etiam volutpat, massa ac sagittis efficitur, dui purus semper est, rutrum venenatis lectus nisi eget orci.</p>
-			<p>Nullam viverra ligula id vulputate tempus. Sed at nisi ut sapien mollis porttitor sed eu nibh. Aliquam erat volutpat. Cras suscipit, erat vel tincidunt auctor, velit turpis molestie arcu, et blandit mi eros a tortor. Curabitur vitae ultrices dui. Cras massa ipsum, cursus ac egestas et, pretium a magna. In accumsan sem quis felis egestas molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas accumsan aliquam tortor, nec blandit risus consectetur sed. Cras viverra finibus diam, sed dapibus eros ullamcorper id. Nam vestibulum nulla ut aliquam ornare. Phasellus quis ipsum vel metus ultricies rutrum. Etiam vestibulum fringilla augue nec sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis erat nec enim pretium, et eleifend ante bibendum. Suspendisse gravida ut erat at consectetur.</p>
+
+			<h1 class="purple-light">Welcome to our classroom's website</h1>
+			<br/>
+			<p class="text-center">Our classroom is comprised of students in grades 9-12 with autism spectrum disorder.  Please feel free to enjoy and explore all of the different aspects of our website including curriculum guides, strategies, upcoming events, resources, and more!</p>
+			<br/>
+			<br/>
+			<img src="/images/classroom.png"/>
+
+			<p class="block-text">Classroom design map</p>
+			<br/>
+			<br/>
+			<h1 class="purple-light">Morning Message</h1>
+			<br/>
+			<img class="morning-message"src="images/sunshine.jpg"/>
+			<p>This section will contain:</p>
+			<ul>
+				<li>A fun fact relevant to recent news or classroom content</li>
+				<li>A quote spoken or written by a famous person, historical figure, or even a student or staff member</li>
+				<li>A joke – (school appropriate)</li>
+				<li>A real or silly holiday – every day's a holiday!</li>
+				<li>Something to look forward to or smile about :)</li>
+			</ul>
+			<br/>
+			<h1 class="purple-light">Student Spotlight</h1>
+			<br/>
+			<img class="morning-message"src="images/student_spotlight.jpg"/>
+			<p class=" block-text text-center">An anonymous piece of featured student work</p>
 		</div>
 	</div>
 </template>
+
+<style scoped>
+	img {
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 20px;
+		display: block;
+		max-height: 445px;		
+	}
+
+	.morning-message {
+		border-radius: 25px;
+	}
+</style>
